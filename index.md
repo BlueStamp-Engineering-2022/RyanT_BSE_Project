@@ -1,5 +1,5 @@
 ﻿# LED Tie
-A tie fitted with LEDs that will react to your voice and respond accordingly.
+A tie fitted with LEDs that has a microphone installed so that everytime you talk, the LEDs light up in a pattern.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
