@@ -1,5 +1,5 @@
-﻿# LED Tie
-A tie fitted with LEDs that has a microphone installed so that everytime you talk, the LEDs light up in a pattern.
+﻿# Robotic Arm
+A robotic arm that is controlled by joysticks that can move up, down, left to right, as well as grasp items. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
