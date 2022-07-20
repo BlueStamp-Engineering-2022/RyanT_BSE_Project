@@ -1,4 +1,4 @@
-﻿# Robotic Arm
+﻿# Robotic Mechanical Arm
 A robotic arm that is controlled by joysticks that can move up, down, left to right, as well as grasp items. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -18,12 +18,7 @@ My first milestone was constructing and assmelbing my robotic arm. I first gathe
 
 [![First Milestone](https://img.youtube.com/vi/5vUDiF_xuyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=5vUDiF_xuyg "First Milestone")
 
-# Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
-
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was creating a modification to my robotic arm. I decided that I wanted to make my robotic arm mobile and created a bicycle for it. I learned how to drill and dremmle. After I constructed everything and adding all my wheels on, I mounted my robotic arm on it with mounting tape. I attached a battery pack on the bicycle and that gave my robotic arm power. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
