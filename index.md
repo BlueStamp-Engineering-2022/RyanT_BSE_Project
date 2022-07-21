@@ -21,4 +21,4 @@ My first milestone was constructing and assmelbing my robotic arm. I first gathe
 # Second Milestone
 My second milestone was creating a modification to my robotic arm. I decided that I wanted to make my robotic arm mobile and created a bicycle for it. I learned how to drill and dremmle. After I constructed everything and adding all my wheels on, I mounted my robotic arm on it with mounting tape. I attached a battery pack on the bicycle and that gave my robotic arm power. 
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
+[![Second Milestone](https://img.youtube.com/vi/-EuEZM7YBHs/maxresdefault.jpg)](https://www.youtube.com/watch?v=-EuEZM7YBHs "Second Milestone")
