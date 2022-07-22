@@ -3,7 +3,7 @@ A robotic arm that is controlled by joysticks that can move up, down, left to ri
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ryan Teh | Burlingame High School | Computer Engineering | Incoming Junior
+| Ryan | Burlingame High School | Computer Engineering | Incoming Junior
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLVU-lSPPp4gAx1f9JcJS7a37Rr0DP42SQcbFiI3G9I7K41sVjLWszJ4titeJvrag4K3u5V41DZoZ5trMCavSWfvhEzmmRFUHM9RwZLnzn8sCd_EZmO-WAQBCw8oIh36hV_lFXjod8JaNDMu3vocAIk=s903-no?authuser=0)
 
