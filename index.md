@@ -1,5 +1,5 @@
 ﻿# Robotic Mechanical Arm
-A robotic arm that is controlled by joysticks that can move up, down, left to right, as well as grasp items. 
+A robotic arm that is controlled by joysticks that can move up, down, left to right, as well as grasp items. I also modified my project so that it could be mobile. I did this by creating a bicylcle and mounting my robotic arm on top of it. I added a battery pack to power the machine.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
